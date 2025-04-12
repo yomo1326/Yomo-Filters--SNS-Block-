@@ -1,0 +1,20 @@
+! Custom SNS Block List Lite
+! 作成日: 2025/4/12
+
+! Twitter/X関連
+||x.com^
+||twitter.com^
+||twimg.com^
+||t.co^
+
+! YouTube/Google関連
+||youtube.com^
+||youtu.be^
+||googlevideo.com^
+||ytimg.com^
+||youtube-nocookie.com^
+
+! Twitch関連
+||twitch.tv^
+||ttvnw.net^
+
