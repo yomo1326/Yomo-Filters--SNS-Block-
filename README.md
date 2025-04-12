@@ -1,5 +1,5 @@
 # Yomo-Filters_SNS-Block
-アプリを消してもPCやスマホで見ようとする弱い心を打ち砕く最後の砦\
+アプリを消してもPCやスマホのブラウザで見ようとする弱い心を打ち砕く最後の砦\
 \
 [購読](https://raw.githubusercontent.com/yomo1326/Yomo-Filters_SNS-Block/refs/heads/main/Blocklist.txt)\
 \
