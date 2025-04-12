@@ -1,12 +1,65 @@
 ! Custom SNS Block List
 ! 作成日: 2025/4/12
 
+! 主要SNSブロックリスト
+! 更新日: 2023-11-20
+
+! Twitter/X関連
+||x.com^
+||twitter.com^
+||twimg.com^
+||t.co^
+
+! Facebook/Meta関連
+||facebook.com^
+||fb.com^
+||messenger.com^
+||facebook.net^
+||fbcdn.net^
+||instagram.com^
+||cdninstagram.com^
+
+! YouTube/Google関連
 ||youtube.com^
 ||youtu.be^
 ||googlevideo.com^
 ||ytimg.com^
 ||youtube-nocookie.com^
-||ggpht.com^
-||x.com^
-||twitter.com^
-||twich.com^
+
+! TikTok関連
+||tiktok.com^
+||tiktokcdn.com^
+||musical.ly^
+
+! LinkedIn関連
+||linkedin.com^
+||licdn.com^
+
+! Pinterest関連
+||pinterest.com^
+||pinimg.com^
+
+! Reddit関連
+||reddit.com^
+||redd.it^
+||redditstatic.com^
+
+! Snapchat関連
+||snapchat.com^
+||sc-cdn.net^
+
+! Twitch関連
+||twitch.tv^
+||ttvnw.net^
+
+! その他SNS
+||discord.com^
+||discordapp.com^
+||telegram.org^
+||t.me^
+||weibo.com^
+||line.me^
+||line-apps.com^
+||vk.com^
+||whatsapp.com^
+||wa.me^
