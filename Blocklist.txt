@@ -15,6 +15,9 @@
 ||fbcdn.net^
 ||instagram.com^
 ||cdninstagram.com^
+||instagram.com^
+||cdninstagram.com^
+||instagramstatic-a.akamaihd.net^
 
 ! YouTube/Google関連
 ||youtube.com^
@@ -36,10 +39,6 @@
 ||pinterest.com^
 ||pinimg.com^
 
-! Reddit関連
-||reddit.com^
-||redd.it^
-||redditstatic.com^
 
 ! Snapchat関連
 ||snapchat.com^
@@ -55,8 +54,6 @@
 ||telegram.org^
 ||t.me^
 ||weibo.com^
-||line.me^
-||line-apps.com^
 ||vk.com^
 ||whatsapp.com^
 ||wa.me^
