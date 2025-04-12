@@ -1,0 +1,12 @@
+! Custom SNS Block List
+! 作成日: 2025/4/12
+
+||youtube.com^
+||youtu.be^
+||googlevideo.com^
+||ytimg.com^
+||youtube-nocookie.com^
+||ggpht.com^
+||x.com^
+||twitter.com^
+||twich.com^
